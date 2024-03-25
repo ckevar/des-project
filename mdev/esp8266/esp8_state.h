@@ -1,0 +1,11 @@
+#ifndef ESP8266_STATE_H
+#define ESP8266_STATE_H
+
+enum ESP8StaAP_Conf {
+	STAAP_ENABLE,
+	STAAP_BIND,
+	STAAP_DONE,
+};
+
+
+#endif

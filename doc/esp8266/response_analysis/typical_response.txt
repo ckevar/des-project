@@ -1,0 +1,10 @@
+>
+OK
+ERROR
+FAIL
+GOT IP
+CLOSED
++IPD
+ready
++CIPSTA_CUR:ip
+STATUS:
